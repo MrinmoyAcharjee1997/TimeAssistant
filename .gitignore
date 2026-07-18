@@ -1,0 +1,15 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Personal runtime log: keep it local even if this project is later committed.
+database/TimeTracker.md
+database/backups/
+
+# Disposable manual-test output
+Testing/artifacts/
+
+# Visual Studio user-specific state
+.vs/
+*.user
+*.suo
